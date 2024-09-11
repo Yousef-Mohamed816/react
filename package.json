@@ -2,7 +2,7 @@
   "name": "jsx",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Yousef-Mohamed816.github.io/react",
+  "homepage": "https://Yousef-Mohamed816.github.io/text-react/",
   "type": "module",
   "scripts": {
     "dev": "vite",
